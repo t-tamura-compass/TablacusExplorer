@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TablacusExplorer>
+	<mouse Enabled="1" Level="2" />
+	<key Enabled="1" Level="2" />
+	<addressbar Enabled="1" Menu="Edit" MenuPos="-1" KeyExec="1" KeyOn="All" Key="Alt+D" Level="2" />
+	<filterbar Enabled="1" MenuPos="-1" KeyExec="1" KeyOn="All" Key="Ctrl+E" Level="2" />
+	<back Enabled="1" Level="2" />
+	<forward Enabled="1" Level="2" />
+	<up Enabled="1" Menu="View" MenuPos="-1" MenuName="&amp;Up One Level" KeyOn="List" Key="$e" MouseOn="List" Mouse="2U" Level="2" />
+	<treeview Enabled="1" MenuPos="-1" List="1" Level="2" />
+	<toolbar Enabled="1" Level="2" />
+	<mainmenu Enabled="1" Level="2" />
+	<titlebar Enabled="1" Level="2" />
+	<tabplus Enabled="1" Icon="1" Drive="1" New="1" Level="2" />
+	<multithread Enabled="1" Copy="1" Move="1" Delete="1" Level="2" />
+	<remember Enabled="1" Level="2" />
+	<undoclosetab Enabled="3" MenuExec="1" Menu="Tabs" MenuPos="0" MenuName="&amp;Undo close tab" KeyExec="1" Key="Shift+Ctrl+T" KeyOn="All" MouseExec="1" Mouse="3" MouseOn="Tabs_Background" Level="2" />
+	<extract Enabled="1" Level="2" />
+	<download Enabled="1" Level="2" />
+	<branchbar Enabled="1" />
+	<split Enabled="1" />
+	<split6 Enabled="1" />
+	<split3 Enabled="1" />
+	<darkmode Enabled="1" />
+	<statusbar Location="BottomBar3Left" Set="1" Enabled="1" Level="2" />
+	<sizestatus Location="BottomBar3Right" Set="1" FileSize="1" Folder="1" Enabled="1" Level="2" />
+</TablacusExplorer>
